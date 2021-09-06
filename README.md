@@ -1,6 +1,6 @@
 # PythonMusicProject
 
-Attempt to create music player using python
+Attempt to learn how to create music player using python
 
 Uses pygame and tkinter. To install:
 
